@@ -1,0 +1,4 @@
+(Entero positivo) (Real negativo) (NotC sin signo) (correo valido) 
+(Entero negativo) (Real positivo) (NotC negativo) (correo valido) 
+(Entero sin signo) (Real sin signo) (NotC positivo) (error) 
+(error) (error) (error) (correo valido) 
